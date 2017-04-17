@@ -19,4 +19,14 @@ Dunn Index for Kmeans Clustering: 0.1604403 &
 Dunn Index for Hierarchical clustering: 0.2438734
 
 
+For Kmeans Algorithm:
+
 ![kmeans](https://cloud.githubusercontent.com/assets/24511419/25100699/eb0780e4-23d2-11e7-935e-a2a3408c45dc.png)
+
+
+For hierarchical clustering:
+
+![hc](https://cloud.githubusercontent.com/assets/24511419/25100847/914cff88-23d3-11e7-81f2-040f92422e69.png)
+
+
+If the plots are not clear, it is recommended to run the crime_data.R file to get details of the clustering results!
