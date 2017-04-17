@@ -17,3 +17,6 @@ In this project,
  
 Dunn Index for Kmeans Clustering: 0.1604403 &
 Dunn Index for Hierarchical clustering: 0.2438734
+
+
+![kmeans](https://cloud.githubusercontent.com/assets/24511419/25100699/eb0780e4-23d2-11e7-935e-a2a3408c45dc.png)
