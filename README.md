@@ -15,5 +15,5 @@ For a given assignment of clusters, a higher Dunn index indicates better cluster
 
 In this project, 
  
-Dunn Index for Kmeans Clustering: 0.1604403
+Dunn Index for Kmeans Clustering: 0.1604403 &
 Dunn Index for Hierarchical clustering: 0.2438734
